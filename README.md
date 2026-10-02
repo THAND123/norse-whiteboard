@@ -30,3 +30,6 @@ An AI whiteboard for NKU students. Upload your notes, slides or PDFs, draw on th
 ## Community page sketch
 
 ![Community page sketch](docs/images/sketch-community.jpg)
+## Profile and settings sketch
+
+![Profile and settings sketch](docs/images/sketch-profile-settings.jpg)
