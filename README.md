@@ -27,3 +27,6 @@ An AI whiteboard for NKU students. Upload your notes, slides or PDFs, draw on th
 - Board: Excalidraw
 - Login, file storage, live sync: Supabase
 - AI: Gemini (free tier)
+## Community page sketch
+
+![Community page sketch](docs/images/sketch-community.jpg)
